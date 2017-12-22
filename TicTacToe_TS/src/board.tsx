@@ -1,3 +1,4 @@
+// TypeScript version
 import * as React from "react";
 import { CellValue, GameState, playerCell, aiCell } from "./constants"; 
 
